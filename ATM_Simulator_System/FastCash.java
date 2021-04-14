@@ -327,3 +327,4 @@ public class FastCash extends JFrame implements ActionListener{
     public static void main(String[] args){
         new FastCash().setVisible(true);
     }
+}
